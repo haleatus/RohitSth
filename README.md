@@ -1,4 +1,4 @@
 <div>
-<p align="left">Hello, I'm Rohit Shrestha aka Haleatus</p>
+<p align="left">Hello</p>
 
 </div>
